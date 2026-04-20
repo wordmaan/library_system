@@ -13,8 +13,8 @@ A full-featured Library Management System built to manage books, users, and issu
 ## 🛠 Tech Stack
 
 * Frontend: React.js
-* Backend: Node.js / Express (if used)
-* Database: MongoDB / MySQL (mention yours)
+* Backend: flask
+* Database: xammp
 
 ## 📸 Screenshots
 
@@ -31,15 +31,9 @@ A full-featured Library Management System built to manage books, users, and issu
 3. Start the project:
    npm start
 
-## 🌐 Live Demo
 
-(Add Vercel / Netlify link if deployed)
 
-## 📌 Future Improvements
 
-* Add authentication system
-* Admin dashboard
-* Fine/penalty system
 
 ## 👨‍💻 Author
 
